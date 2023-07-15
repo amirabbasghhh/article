@@ -1,0 +1,22 @@
+.card-container{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 25px;
+    border-radius: 15px;
+    position: sticky;
+    top:80px;
+}
+.card-header{
+    position: relative;
+    top:-50px;
+}
+.card-header img{
+    border-radius: 10px;
+}
+.card-footer {
+    display: flex;
+    justify-content: center;
+
+}
+.card-footer button{
+    margin:15px 8px
+}

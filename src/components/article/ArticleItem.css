@@ -1,0 +1,21 @@
+.card{
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    transition: all 0.5s;
+}
+
+.card:hover{
+    scale: 1.05;
+}
+.card-text{
+    color:#8e8e8e
+}
+.read-more{
+    cursor: pointer;
+}
+.read-more a:hover{
+    color:#f54980
+}
+.read-more a{
+    text-decoration: none;
+}
